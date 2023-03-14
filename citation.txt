@@ -1,6 +1,6 @@
-@article{Chane2020,
+@article{REPO-246,
     author = "Chen, Ting and Kornblith, Simon and Norouzi, Mohammad and Hinton, Geoffrey",
-    title = "A Simple Framework for Contrastive Learning of Visual Representations",
     journal = "ACM Transactions on Graphics",
+    title = "A Simple Framework for Contrastive Learning of Visual Representations",
     year = "2020"
 }
