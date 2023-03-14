@@ -1,0 +1,6 @@
+@article{Chane2020,
+    author = "Chen, Ting and Kornblith, Simon and Norouzi, Mohammad and Hinton, Geoffrey",
+    title = "A Simple Framework for Contrastive Learning of Visual Representations",
+    journal = "ACM Transactions on Graphics",
+    year = "2020"
+}
